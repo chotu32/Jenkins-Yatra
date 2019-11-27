@@ -1,0 +1,7 @@
+com\utilities\BaseClass.class
+com\testscripts\YatraTestScript.class
+com\utilities\Utilities.class
+com\pageobjects\YatraPageObject.class
+com\pageobjects\YatraTravellerDetailsPageObject.class
+com\utilities\Config.class
+com\pageobjects\YatraFlightDetailsPageObject.class
